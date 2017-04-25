@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1492949968 source:d:\glfwworkstation\projects\camera.cpp
+	<stdlib.h>
+	<stdio.h>
+	<GL/glu.h>
+	<GLFW/glfw3.h>
+	<math.h>
+	<time.h>
+	<iostream>
+
+1492949968 source:d:\glfwworkstation\作业报告\homework5\r_14331384_郑嘉俊_hw5_version0\src\cameraimplement\camera.cpp
+	<stdlib.h>
+	<stdio.h>
+	<GL/glu.h>
+	<GLFW/glfw3.h>
+	<math.h>
+	<time.h>
+	<iostream>
+
